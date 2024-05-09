@@ -1,0 +1,19 @@
+{
+  "name": "node-enigo-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "node-enigo.android-arm-eabi.node",
+  "files": [
+    "node-enigo.android-arm-eabi.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/ENFP-Dev-Studio/node-enigo"
+}

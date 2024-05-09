@@ -1,0 +1,16 @@
+{
+  "name": "node-enigo-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "node-enigo.darwin-universal.node",
+  "files": [
+    "node-enigo.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/ENFP-Dev-Studio/node-enigo"
+}

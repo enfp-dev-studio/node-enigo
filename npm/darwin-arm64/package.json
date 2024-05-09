@@ -1,0 +1,19 @@
+{
+  "name": "node-enigo-darwin-arm64",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "node-enigo.darwin-arm64.node",
+  "files": [
+    "node-enigo.darwin-arm64.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/ENFP-Dev-Studio/node-enigo"
+}
